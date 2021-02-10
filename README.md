@@ -9,8 +9,11 @@ _________________
 Followers | cost
 -----------------
 500 | 100 rupees
+
 1k  | 200 rupees
+
 2k  | 300 rupees
+
 3k  | 400 rupees
 4k  | 500 rupees
 5k  | 600 rupees
