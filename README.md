@@ -29,4 +29,5 @@ Followers | cost
 9k        | 1000 rupees
 
 10k       | 1100 rupees
+
 -----------------
