@@ -9,7 +9,7 @@ Free 20 followers for trial
 _________________
 Followers | cost
 -----------------
-200       | 1500 rupees
+200       | 150 rupees
 
 400       | 250 rupees
 
