@@ -35,26 +35,43 @@ Followers | cost
 
 Like | cost
 -----------------
-100      | 100 rupees
+100      | 50 rupees
 
-200       | 200 rupees
+200       | 100 rupees
 
-300        | 250 rupees
+300        | 200 rupees
 
-350        | 300 rupees
+400        | 300 rupees
 
-450        | 400 rupees
+500        | 400 rupees
 
-550        | 500 rupees
-
-650       | 600 rupees
-
-900        | 800 rupees
-
-1000       | 900 rupees
-
-1200        | 1000 rupees
-
-10k       | 1100 rupees
+650        | 500 rupees
 
 -----------------
+Reels views  | cost
+-----------------
+100          | 50 rupees
+
+200          | 100 rupees
+
+300          | 150 rupees
+
+400          | 200 rupees
+
+500          | 250 rupees
+ 
+600          | 300 rupees
+  
+700          | 350 rupees
+
+800          | 400 rupees
+
+1000         | 450 rupees
+
+1500         | 500 rupees
+  
+2000         | 550 rupees
+ 
+2500         | 600 rupees
+
+3000         | 650 rupees
