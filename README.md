@@ -1,7 +1,7 @@
 # instfollower
 
 #Contact me for 
-👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain/)👈
+👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamgosainn)👈
 
 Increase your followers upto 1k to 10k 
 Price for Indian
