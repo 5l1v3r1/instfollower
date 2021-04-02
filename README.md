@@ -9,27 +9,27 @@ Free 20 followers for trial
 _________________
 Followers | cost
 -----------------
-500       | 100 rupees
+200       | 1500 rupees
 
-1k        | 200 rupees
+400       | 250 rupees
 
-2k        | 300 rupees
+600       | 350 rupees
 
-3k        | 400 rupees
+700       | 450 rupees
 
-4k        | 500 rupees
+800        | 500 rupees
 
-5k        | 600 rupees
+1.25k      | 600 rupees
 
-6k        | 700 rupees
+1.35k      | 700 rupees
 
-7k        | 800 rupees
+1.45k      | 800 rupees
 
-8k        | 900 rupees
+1.55k      | 900 rupees
 
-9k        | 1000 rupees
+1.65k      | 1000 rupees
 
-10k       | 1100 rupees
+1.75k      | 1100 rupees
 
 -----------------
 
