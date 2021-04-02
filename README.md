@@ -37,7 +37,9 @@ Like | cost
 -----------------
 100      | 100 rupees
 
-250       | 200 rupees
+200       | 200 rupees
+
+300        | 250 rupees
 
 350        | 300 rupees
 
@@ -45,9 +47,7 @@ Like | cost
 
 550        | 500 rupees
 
-650        | 600 rupees
-
-750       | 700 rupees
+650       | 600 rupees
 
 900        | 800 rupees
 
