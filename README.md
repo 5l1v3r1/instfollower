@@ -32,3 +32,29 @@ Followers | cost
 10k       | 1100 rupees
 
 -----------------
+
+Like | cost
+-----------------
+100      | 100 rupees
+
+250       | 200 rupees
+
+350        | 300 rupees
+
+450        | 400 rupees
+
+550        | 500 rupees
+
+650        | 600 rupees
+
+750       | 700 rupees
+
+900        | 800 rupees
+
+1000       | 900 rupees
+
+1200        | 1000 rupees
+
+10k       | 1100 rupees
+
+-----------------
